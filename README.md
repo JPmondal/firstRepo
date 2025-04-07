@@ -1,4 +1,5 @@
 # firstRepo
+
 My First Git repositry
 <br>
-Author - JP Mondal
+Author - Jyoti Prokash Mondal
